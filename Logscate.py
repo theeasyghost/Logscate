@@ -2,7 +2,7 @@
 Author: Michael Wurner
 Date: June 20th 2019
 Description: This script is a proof of concept. It takes any file and converts all characters to unicode.
-	     algorithms are generated using vbscript log() function to obfuscate the text. This is a good method of 
+	     Algorithms are generated using vbscript log() function to obfuscate the text. This is a good method of 
 	     evading signature checks and can be utilized with or as a stage 1 payload.
 '''
 
